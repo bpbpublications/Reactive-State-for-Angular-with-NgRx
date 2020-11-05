@@ -18,6 +18,6 @@ Towards the end, we will optimize the list of records using a proven entity stat
 
 ## Related Products
 
+* [Object Oriented Programming with Angular](https://bpbonline.com/products/object-oriented-programming-with-angular?_pos=5&_sid=288d4ec61&_ss=r)
 * [Advanced Web Development with React](https://bpbonline.com/products/advanced-web-development-with-react-book-ebook?_pos=1&_sid=4799478a3&_ss=r)
 * [Designing Applications with Spring Boot 2.2 and React JS](https://bpbonline.com/products/designing-applications-with-spring-boot-2-2-and-react-js-book-ebook?_pos=3&_sid=4799478a3&_ss=r)
-* [Object Oriented Programming with Angular](https://bpbonline.com/products/object-oriented-programming-with-angular?_pos=5&_sid=288d4ec61&_ss=r)
